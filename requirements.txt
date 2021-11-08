@@ -1,0 +1,7 @@
+Flask==1.1.2
+py-eureka-client==0.9.7
+DateTime==4.3
+jsonify==0.5
+mysql-connector-python==8.0.23
+redis==3.5.3
+requests==2.24.0
